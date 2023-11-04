@@ -1,0 +1,88 @@
+.container-fluid{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: #333;
+    text-decoration-color: white;
+    margin: 0;
+    padding: 20px;
+}
+footer{
+    background-color: #333;
+    color: aliceblue;
+    padding: 20px 0;
+}
+.footer-content{
+    max-width: 800px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+img{
+    margin-left: 20px;
+    justify-content: space-between;
+}
+
+.figura{
+    width: 40%;
+    float: left;
+    background: black;
+    margin: 0;
+    padding: 20px 40px;
+    box-sizing: border-box;
+    height: 100vh;
+    text-align: center;
+    
+}
+.formulario{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 60%;
+    float: right;
+    background: white;
+    padding: 80px 100px;
+    box-sizing: border-box;
+    height: 100vh;
+}
+.formulario h2{
+    color:black;
+    font-size: 32px;
+    margin-bottom: 0;
+}
+.formulario p{
+    color: #333;
+    font-size: 18px;
+    margin-top: 0;
+}
+.formulario form{
+    max-width: 300px;
+}
+.formulario input{
+    padding: 8px;
+    border-radius: 5px;
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+}
+.login{
+    background: black;
+    display: inline-block;
+    color: aliceblue;
+    width: auto;
+    padding: 10px 15px;
+}
+.esqueceu{
+    text-decoration: none;
+    color: black;  
+}
+.col{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font: bold;
+    margin-top: 20px;
+    padding: 10px;
+    border-style: dotted;
+
+
+}
+.texto{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 20px;
+}
